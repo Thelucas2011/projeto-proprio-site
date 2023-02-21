@@ -18,3 +18,5 @@ body{background-image: url(https://i.pinimg.com/564x/88/bf/cd/88bfcda437b8f11d6f
 a:hover{color:rgb(255, 1, 1);}
 a{color:aqua}
 .subtitulo{font-family: fonte-titulo}
+#Covid-19{background-color:greenyellow;border: 3px solid black;border-radius: 10px;font-size: small;display: inline-block;}
+.bloco{display: inline-block;}
